@@ -1,6 +1,6 @@
-	{
+{
     "Authors": [
-    	"Asieh Zadbood",
+        "Asieh Zadbood",
         "Samuel A. Nastase",
         "Janice Chen",
         "Kenneth A. Norman",
@@ -11,7 +11,7 @@
     "Funding": [
         "National Institutes of Health Grant R01-MH12357"
     ],
-    "HowToAcknowledge": "Please cite this dataset",
+    "HowToAcknowledge": "Please cite this dataset and/or its corresponding paper.",
     "License": "CC0",
     "Name": "SixthSense"
-    }
+}
