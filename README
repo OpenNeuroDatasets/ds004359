@@ -2,6 +2,6 @@ The current dataset includes the fMRI data from 57 participants who watched a sh
 
 Events files show when stimulus (each event in the movie) begins relative to the beginning of the scan file. In 6 participants the recall was paused and resumed. In these participants each recall file is linked to one section of the recall and has its own event file. For example, event 1-4 would be in the 1st recall file (recall part 1) and events 5-18 would be in the 2nd recall file (recall part 2). To determine which event numbers are included in each recall part, note the order of the recall parts in subj_info.txt fie (recall part 1, part 2, etc). 
 
-Scans were stopped manually and so each file has different TR size. This does not affect the analysis. TR numbers of each functional file is included in its file name. 
+Scans were stopped manually and so each file has different TR size. This does not affect the analysis. TR numbers of each functional file are included in its file name. 
 
 scene_info.txt includes some information about the content of each scene. For the definition of “critical scenes”, please see the paper. 
